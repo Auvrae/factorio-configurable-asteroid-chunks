@@ -1,0 +1,11 @@
+{
+	"name": "configurable-asteroid-chunks",
+	"version": "1.0.0",
+	"title": "Configurable Asteroid Chunks",
+	"author": "Auvrae",
+	"factorio_version": "2.0",
+	"contact": "TBD",
+	"homepage": "https://github.com/Auvrae/factorio-configurable-asteroid-chunks",
+	"description": "Asteroid Chunks are now configurable! Want to fit more into a rocket? Now you can. Want chunks to stack so stack inserters can fit more on a belt? Now you can. Supports all the mods listed in the dependencies.",
+	"dependencies": ["base >= 2.0.0", "space-age", "? cupric-asteroids >= 1.5.3", "? planet-muluna >= 2.1.33", "? secretas >= 1.0.33", "? More-Asteroids >= 0.4.2", "? platformer >= 1.0.6", "? tiberium-asteroids >= 1.1.0"]
+}
